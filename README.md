@@ -2,7 +2,7 @@
 
 **Full Stack Developer · B.Tech CSE · Lucknow, India**
 
-I'm a 2nd-year Computer Science student who loves building full-stack web apps. I built **Wanderlust** — a live Airbnb-inspired platform with real auth, cloud image storage, and 50+ listings. Currently levelling up with the MERN stack and DSA every day.
+I'm a 3rd-year Computer Science student who loves building full-stack web apps. I built **Wanderlust** — a live Airbnb-inspired platform with real auth, cloud image storage, and 50+ listings. Currently levelling up with the MERN stack and DSA every day.
 
 ---
 
@@ -48,7 +48,7 @@ I'm a 2nd-year Computer Science student who loves building full-stack web apps. 
 ## 🏆 LeetCode stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/dipanshu-kashyap00?theme=light&font=Nunito&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Dipanshu_kashyap?theme=light&font=Nunito&ext=heatmap"/>
 </p>
 
 > ⚠️ Make sure your LeetCode username is **dipanshu-kashyap00** — update it if different.
