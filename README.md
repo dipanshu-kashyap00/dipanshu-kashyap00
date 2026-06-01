@@ -12,7 +12,7 @@ I'm a 3rd-year Computer Science student who loves building full-stack web apps. 
 - 💻 Building full-stack projects with the MERN stack
 - 🧩 Solving DSA problems daily on LeetCode (Java)
 - 🌱 Currently learning: React hooks, JWT auth, deployment
-- 🎯 Goal: Software engineering internship in 2025
+- 🎯 Goal: Software engineering internship in 2026
 
 ---
 
