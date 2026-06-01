@@ -2,7 +2,7 @@
 
 **Full Stack Developer · B.Tech CSE · Lucknow, India**
 
-I'm a 3rd-year Computer Science student who loves building full-stack web apps. I built **Wanderlust** — a live Airbnb-inspired platform with real auth, cloud image storage, and 50+ listings. Currently levelling up with the MERN stack and DSA every day.
+Computer Science undergraduate focused on full-stack web development and software engineering. Built Wanderlust, a production-style web application with user authentication, cloud media storage, and responsive user experiences.
 
 ---
 
