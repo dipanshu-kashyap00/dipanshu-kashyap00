@@ -8,7 +8,7 @@ I'm a 3rd-year Computer Science student who loves building full-stack web apps. 
 
 ## 🚀 About me
 
-- 🎓 B.Tech CSE — 2nd year, Lucknow
+- 🎓 B.Tech CSE — 3rd year, Lucknow
 - 💻 Building full-stack projects with the MERN stack
 - 🧩 Solving DSA problems daily on LeetCode (Java)
 - 🌱 Currently learning: React hooks, JWT auth, deployment
