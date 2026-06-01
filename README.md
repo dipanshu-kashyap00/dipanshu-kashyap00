@@ -51,8 +51,6 @@ I'm a 3rd-year Computer Science student who loves building full-stack web apps. 
   <img src="https://leetcard.jacoblin.cool/Dipanshu_kashyap?theme=light&font=Nunito&ext=heatmap"/>
 </p>
 
-> ⚠️ Make sure your LeetCode username is **dipanshu-kashyap00** — update it if different.
-
 ---
 
 ## 📌 Featured projects
