@@ -2,7 +2,7 @@
 
 **Full Stack Developer · B.Tech CSE · Lucknow, India**
 
-Computer Science undergraduate focused on full-stack web development and software engineering. Built Wanderlust, a production-style web application with user authentication, cloud media storage, and responsive user experiences.
+Computer Science undergraduate focused on full-stack web development and software engineering. Built Wanderlust, a production-ready web application with secure user authentication, cloud media storage, and responsive user experiences.
 
 ---
 
@@ -13,6 +13,7 @@ Computer Science undergraduate focused on full-stack web development and softwar
 - 🧩 Solving DSA problems daily on LeetCode (Java)
 - 🌱 Currently learning: React hooks, JWT auth, deployment
 - 🎯 Goal: Software engineering internship in 2026
+- ⚡ Fun fact: I turn coffee into code and bugs into features
 
 ---
 
@@ -48,7 +49,9 @@ Computer Science undergraduate focused on full-stack web development and softwar
 ## 🏆 LeetCode stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dipanshu_kashyap?theme=light&font=Nunito&ext=heatmap"/>
+  <a href="https://leetcode.com/Dipanshu_kashyap/">
+    <img src="https://leetcard.jacoblin.cool/Dipanshu_kashyap?theme=light&font=Nunito&ext=heatmap"/>
+  </a>
 </p>
 
 ---
@@ -56,14 +59,14 @@ Computer Science undergraduate focused on full-stack web development and softwar
 ## 📌 Featured projects
 
 ### 🌍 [Wanderlust](https://github.com/dipanshu-kashyap00/Wanderlust) — [Live Demo ↗](https://wanderlust-8ybi.onrender.com)
-Full-stack travel listing platform inspired by Airbnb. Real user authentication, CRUD operations, Cloudinary image uploads, and a review system. Deployed on Render with MongoDB Atlas.
+Production-ready travel listing platform inspired by Airbnb. Features secure user authentication, full CRUD operations, Cloudinary image uploads, and a review system. Deployed on Render with MongoDB Atlas.
 
 `Node.js` `Express` `MongoDB` `Passport.js` `Cloudinary` `Render`
 
 ---
 
 ### 🧩 [DSA Practice (Java)](https://github.com/dipanshu-kashyap00/dsa-java)
-Daily LeetCode solutions in Java covering Arrays, Strings, HashMap, Two Pointers, and Recursion.
+Daily LeetCode solutions in Java covering Arrays, Strings, HashMap, Two Pointers, and Recursion. Consistent problem-solving to sharpen algorithmic thinking.
 
 `Java` `LeetCode` `DSA`
 
@@ -73,6 +76,7 @@ Daily LeetCode solutions in Java covering Arrays, Strings, HashMap, Two Pointers
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshu-kashyap-87288531b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/dipanshu-kashyap00)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Dipanshu_kashyap/)
 [![Wanderlust Live](https://img.shields.io/badge/Live%20Project-FF5722?style=flat&logo=googlechrome&logoColor=white)](https://wanderlust-8ybi.onrender.com)
 
 ---
