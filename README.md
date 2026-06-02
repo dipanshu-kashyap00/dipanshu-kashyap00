@@ -12,7 +12,7 @@ Computer Science undergraduate focused on full-stack web development and softwar
 - 💻 Building full-stack projects with the MERN stack
 - 🧩 Solving DSA problems daily on LeetCode (Java)
 - 🌱 Currently learning: React hooks, JWT auth, deployment
-- 🎯 Goal: Software engineering internship in 2026
+- - 🎯 Goal: Software Engineering Internship in 2026 
 - ⚡ Fun fact: I turn coffee into code and bugs into features
 
 ---
