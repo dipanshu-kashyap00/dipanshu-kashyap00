@@ -33,19 +33,6 @@ Computer Science undergraduate focused on full-stack web development and softwar
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipanshu-kashyap00&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshu-kashyap00&layout=compact&theme=default&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshu-kashyap00&theme=default&hide_border=true" />
-</p>
-
----
-
 ## 🏆 LeetCode stats
 
 <p align="center">
